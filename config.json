@@ -1,0 +1,12 @@
+{
+    "log": true,
+    "taskName": "verify:verify",
+    "default": {
+        "prospect": {
+            "contract": "EuropaPROSPECT",
+            "verifyPath": "contracts/EuropaPROSPECT.sol:EuropaPROSPECT",
+            "tag": "PROSPECT"
+        }
+    }
+
+}
